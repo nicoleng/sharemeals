@@ -1,2 +1,1 @@
-# sharemeals
-BAC Insight Team x ShareMeals Analysis Project
+# BAC Insight Team x ShareMeals Analysis Project
